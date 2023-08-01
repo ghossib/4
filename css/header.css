@@ -1,0 +1,74 @@
+.header {
+    margin-bottom: 120px;
+}
+
+.header-bg {
+    background-image: url("../img/header+main/Rectangle 38.png");
+    background-position-x:  right ;
+    background-repeat: no-repeat;
+    background-size: 60% auto;
+
+}
+
+.header-nav nav {
+    display: flex;
+    gap: 38px;
+}
+.header-mobile-photo {
+    display: none;
+}
+
+.menu-item a {
+    color: #fff;
+    padding: 31px 24px;
+
+}
+.header-mobile-photo-360 {
+    display: none;
+}
+
+.header-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 23px;
+}
+
+.header-burger-btn {
+    display: none;
+}
+
+
+.purple-item {
+    background-color: #5221E6;
+}
+
+.header-info {
+    display: flex;
+    position: relative;
+    padding: 80px 0;
+}
+
+.header-text {
+    max-width: 762px;
+    z-index: 2;
+    position: absolute;
+    right: 0px;
+    top: 227px;
+}
+
+.header-photo {
+    z-index: 1;
+    position: relative;
+}
+
+
+.header-title {
+    font-size: 78px;
+
+}
+
+.header-description {
+    font-size: 18px;
+
+}

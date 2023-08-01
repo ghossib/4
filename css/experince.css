@@ -1,0 +1,35 @@
+.experince {
+margin-bottom: 120px;
+}
+.experince-info {
+    margin-bottom: 40px;
+}
+.expirince-descript {
+    margin-bottom: 8px;
+    font-family: sen;
+    color: #8491A0;
+}
+.experince-title {
+    font-size: 55px;
+    max-width: 690px;
+}
+.experince-facts {
+    display: flex;
+    justify-content: center;
+    gap: 113px;
+}
+
+.experince-number {
+font-size: 117px;
+color: #8491A0;
+font-family: senR;
+}
+.experince-number-text {
+font-size: 24px;
+padding-bottom: 22px;
+max-width: 368px;
+}
+.experince-number-decript {
+color: #8491A0;
+line-height: 150%; /* 24px */
+}

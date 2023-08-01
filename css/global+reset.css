@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: sen ;
+    src: url("../fonts/Sen-Bold.woff2");
+}
+@font-face {
+    font-family: senR;
+    src: url("../fonts/Sen-Regular.woff2");
+}
+a,p {
+    font-family: senR;
+}
+h1, h2 ,h3 , h4 {
+    font-family: sen;
+}
+.body-wrapper {
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+}
+body {
+    background-color: #000;
+    color: #fff;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    display: block;
+}
+@media (prefers-reduced-motion: no-preference) {
+    :root {
+        scroll-behavior: smooth;
+        scroll-padding-top: 50px;
+    }
+}

@@ -1,0 +1,1023 @@
+@media (max-width:1024px) {
+    .min {
+        overflow: hidden;
+    }
+
+    /* =========================header====================== */
+    .container {
+        max-width: 768px;
+    }
+
+    .header-title {
+        max-width: 408px;
+
+    }
+
+    .header-title {
+        font-size: 56px;
+    }
+
+    .header-text {
+        right: 30px;
+    }
+
+    .header-description {
+        max-width: 408px;
+
+    }
+
+    .header-bg {
+        background: none;
+    }
+
+    .header-main-photo {
+        display: none;
+    }
+
+    .header-mobile-photo {
+        display: block;
+    }
+
+    .gray-header-text {
+        white-space: nowrap;
+    }
+
+    /* =========================header====================== */
+
+
+
+    /* =========================experince====================== */
+    .experince-info {
+        padding-left: 15px;
+    }
+
+    .experince-title {
+        max-width: 688px;
+    }
+
+    .experince-number-text, .experince-number-decript {
+        max-width: 197px;
+    }
+
+    .philosophy-photo-main {
+        display: none;
+    }
+
+    .philosophy-photo-mobile {
+        display: block;
+    }
+
+    .philosophy-bg {
+        min-width: 384px;
+    }
+
+    .philosophy-info {
+        padding-top: 80px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .philosophy-descript {
+        padding-bottom: 95px;
+        max-width: 304px;
+    }
+
+    /* =========================experince====================== */
+    /* =========================skillset====================== */
+
+
+    .skillset-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .skillset-inner {
+        padding-left: 15px;
+    }
+
+    .skillset-descript {
+        max-width: 688px;
+    }
+
+    .skillset-columns {
+        gap: 24px;
+        padding-left: 15px;
+    }
+
+    .skillset-decript-item {
+        max-width: 284px;
+    }
+
+    /* =========================skillset====================== */
+    /* =========================sponsors====================== */
+    .sponsors-wrapper {
+        display: grid;
+        grid-template-columns: repeat(2, 384px);
+        gap: 10px;
+        padding-left: 15px;
+
+    }
+
+    .sponsors-item {
+        max-width: 343px;
+    }
+
+    /* =========================sponsors====================== */
+    /* =========================projects====================== */
+    .projects-wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .project-title {
+        max-width: 688px;
+    }
+
+    .project-item-link {
+        display: none;
+    }
+
+    /* =========================projects====================== */
+    /* =========================follow====================== */
+    .follow {
+        padding-left: 15px;
+    }
+
+    .follow-photo img {
+        width: 688px;
+        height: 480px;
+    }
+
+    /* =========================follow====================== */
+    /* =========================why====================== */
+    .why-item-photo img {
+        width: 332px;
+        height: 360px;
+    }
+
+    .why-item-info {
+        padding: 32px;
+    }
+
+    .why-item-text {
+        max-width: 269px;
+    }
+
+    .why-info p {
+        max-width: 332px;
+    }
+
+    .why-info {
+        padding-left: 15px;
+    }
+
+    .why-column {
+        padding-right: 15px;
+    }
+
+    /* =========================why====================== */
+    /* =========================photos====================== */
+    .photos {
+        margin-bottom: 80px;
+    }
+
+    .photos-info {
+        padding-left: 15px;
+    }
+
+    .photos-wrapper {
+        padding-left: 15px;
+        grid-template-columns: repeat(2, 306px);
+    }
+
+    /* =========================photos====================== */
+    /* =========================form====================== */
+    .form-wrapper {
+        padding: 80px 40px;
+    }
+
+    .follow-info-descript {
+        max-width: 360px;
+    }
+
+    /* =========================form====================== */
+    /* =========================footer====================== */
+
+    .ft-wrapper {
+        padding-bottom: 46px;
+    }
+
+    .ft-text-bottom {
+        padding: 0px 0px 20px 100px;
+        max-width: 400px;
+    }
+
+    /* =========================footer====================== */
+
+}
+@media (max-width:800px) {
+    .min {
+        overflow: hidden;
+    }
+
+    /* =========================header====================== */
+    .container {
+        max-width: 768px;
+    }
+
+    .header-title {
+        max-width: 408px;
+
+    }
+
+    .header-title {
+        font-size: 56px;
+    }
+
+    .header-text {
+        right: 30px;
+    }
+
+    .header-description {
+        max-width: 408px;
+
+    }
+
+    .header-bg {
+        background: none;
+    }
+
+    .header-main-photo {
+        display: none;
+    }
+
+    .header-mobile-photo {
+        display: block;
+    }
+
+    .gray-header-text {
+        white-space: nowrap;
+    }
+
+    /* =========================header====================== */
+
+
+
+    /* =========================experince====================== */
+    .experince-info {
+        padding-left: 15px;
+    }
+
+    .experince-title {
+        max-width: 688px;
+    }
+
+    .experince-number-text, .experince-number-decript {
+        max-width: 197px;
+    }
+
+    .philosophy-photo-main {
+        display: none;
+    }
+
+    .philosophy-photo-mobile {
+        display: block;
+    }
+
+    .philosophy-bg {
+        min-width: 384px;
+    }
+
+    .philosophy-info {
+        padding-top: 80px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .philosophy-descript {
+        padding-bottom: 95px;
+        max-width: 304px;
+    }
+
+    /* =========================experince====================== */
+    /* =========================skillset====================== */
+
+
+    .skillset-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .skillset-inner {
+        padding-left: 15px;
+    }
+
+    .skillset-descript {
+        max-width: 688px;
+    }
+
+    .skillset-columns {
+        gap: 24px;
+        padding-left: 15px;
+    }
+
+    .skillset-decript-item {
+        max-width: 284px;
+    }
+
+    /* =========================skillset====================== */
+    /* =========================sponsors====================== */
+    .sponsors-wrapper {
+        display: grid;
+        grid-template-columns: repeat(2, 384px);
+        gap: 10px;
+        padding-left: 15px;
+
+    }
+
+    .sponsors-item {
+        max-width: 343px;
+    }
+
+    /* =========================sponsors====================== */
+    /* =========================projects====================== */
+    .projects-wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .project-title {
+        max-width: 688px;
+    }
+
+    .project-item-link {
+        display: none;
+    }
+
+    /* =========================projects====================== */
+    /* =========================follow====================== */
+    .follow {
+        padding-left: 15px;
+    }
+
+    .follow-photo img {
+        width: 688px;
+        height: 480px;
+    }
+
+    /* =========================follow====================== */
+    /* =========================why====================== */
+    .why-item-photo img {
+        width: 332px;
+        height: 360px;
+    }
+
+    .why-item-info {
+        padding: 32px;
+    }
+
+    .why-item-text {
+        max-width: 269px;
+    }
+
+    .why-info p {
+        max-width: 332px;
+    }
+
+    .why-info {
+        padding-left: 15px;
+    }
+
+    .why-column {
+        padding-right: 15px;
+    }
+
+    /* =========================why====================== */
+    /* =========================photos====================== */
+    .photos {
+        margin-bottom: 80px;
+    }
+
+    .photos-info {
+        padding-left: 15px;
+    }
+
+    .photos-wrapper {
+        padding-left: 15px;
+        grid-template-columns: repeat(2, 306px);
+    }
+
+    /* =========================photos====================== */
+    /* =========================form====================== */
+    .form-wrapper {
+        padding: 80px 40px;
+    }
+
+    .follow-info-descript {
+        max-width: 360px;
+    }
+
+    /* =========================form====================== */
+    /* =========================footer====================== */
+
+    .ft-wrapper {
+        padding-bottom: 46px;
+    }
+
+    .ft-text-bottom {
+        padding: 0px 0px 20px 100px;
+        max-width: 400px;
+    }
+
+    /* =========================footer====================== */
+
+}
+
+@media (max-width:360px) {
+
+    /* =========================header====================== */
+    .header-burger-btn {
+        display: block;
+        z-index: 2;
+    }
+
+    .header-wrapper {
+        gap: 0;
+    }
+
+    .header-nav nav {
+        position: absolute;
+        right: -360px;
+        top: 0;
+        width: 360px;
+        display: block;
+        background: #000;
+        padding: 15px 20px;
+        visibility: hidden;
+        transition: transform .5s, visibility .5s;
+        text-align: center;
+
+
+    }
+
+    .menu-item a {
+        padding: 5px;
+    }
+
+    .menu li {
+        padding-top: 5px;
+
+    }
+
+    .header.open .menu {
+        transform: translateX(-100%);
+        visibility: visible;
+    }
+
+    .header-title {
+        font-size: 32px;
+        padding-bottom: 16px;
+        min-width: 320px;
+        padding-left: 15px;
+    }
+
+    .header-description {
+        font-size: 18px;
+        padding-left: 15px;
+
+    }
+
+    .header-mobile-photo {
+        display: none;
+    }
+
+    .header-mobile-photo-360 {
+        display: block;
+    }
+
+    .header-text {
+        z-index: 0;
+        margin-top: 190px;
+        padding-bottom: 96px;
+    }
+
+    .main {
+        padding-top: 200px;
+    }
+
+    .header-mobile-photo-360 {
+        width: 360px;
+        height: 288px;
+    }
+
+    /* =========================header====================== */
+    /* =========================experince====================== */
+    .experince-title {
+        font-size: 32px;
+    }
+
+    .experince-facts {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .experince-facts-item, .experince-number-text, .experince-number-decript {
+        max-width: 320px;
+
+    }
+
+    .experince-facts-item {
+        padding-left: 15px;
+    }
+
+
+    /* =========================experince====================== */
+    /* =========================philosophy====================== */
+    .philosophy-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .philosophy-photo-mobile {
+        width: 360px;
+        height: 450px;
+    }
+
+    .philosophy-info {
+        padding-top: 48px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .philosophy-title {
+        font-size: 32px;
+    }
+
+    .philosophy-descript {
+        font-size: 18px;
+        max-width: 320px;
+        padding-bottom: 90px;
+    }
+
+    .philosophy-link {
+        padding-bottom: 55px;
+    }
+
+    /* =========================philosophy====================== */
+    /* =========================skillset====================== */
+    .skillset-title {
+        font-size: 32px;
+        padding-bottom: 16px;
+        max-width: 320px;
+    }
+
+    .skillset-columns {
+        display: grid;
+        grid-template-columns: repeat(1, 320px);
+    }
+
+    .skillset-item {
+        padding-bottom: 40px;
+    }
+
+    /* =========================skillset====================== */
+    /* =========================sponsors====================== */
+    .sponsors-wrapper {
+        display: grid;
+        grid-template-columns: repeat(2, 180px);
+        gap: 0;
+        padding-left: 0;
+    }
+
+    .sponsors-item {
+        max-width: 180px;
+    }
+
+    .sponsors-item img {
+        padding: 59px 45px;
+    }
+
+    /* =========================sponsors====================== */
+    /* =========================projects====================== */
+    .project-text {
+        padding-left: 15px;
+        max-width: 320px;
+    }
+
+    .project-title {
+        font-size: 32px;
+        max-width: 500px;
+        padding-left: 15px;
+    }
+
+    .project-item-img img {
+        max-width: 320px;
+        max-height: 400px;
+    }
+
+    .project-item-info, .projects-wrapper {
+        max-width: 320px;
+
+    }
+
+    .project-item {
+        max-width: 320px;
+        padding-left: 15px;
+
+    }
+
+    /* =========================projects====================== */
+
+
+
+    /* =========================follow====================== */
+    .follow-info {
+        max-width: 320px;
+    }
+
+    .follow-photo img {
+        max-width: 320px;
+    }
+
+    /* =========================follow====================== */
+    /* =========================why====================== */
+    .why-wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .why-title {
+        font-size: 32px;
+    }
+
+    .why-item-photo img {
+        max-width: 320px;
+
+    }
+
+    .why-item-info {
+        min-width: 320px;
+    }
+
+    .why-item {
+        padding-left: 15px;
+    }
+
+    /* =========================why====================== */
+    /* =========================photos====================== */
+
+    .photos-info {
+        max-width: 320px;
+    }
+
+    .photos-title {
+        font-size: 32px;
+    }
+
+    .photos-btns {
+        display: grid;
+        grid-template-columns: repeat(2, 148px);
+    }
+
+    .photos-wrapper {
+        max-width: 320px;
+        display: grid;
+        grid-template-columns: repeat(1, 320px);
+    }
+
+    /* =========================photos====================== */
+    /* =========================form====================== */
+    .form-wrapper {
+        display: flex;
+        flex-direction: column;
+        padding: 80px 15px;
+    }
+
+    .follow-info-title {
+        font-size: 32px;
+    }
+
+    .form-inputs {
+        max-width: 320px;
+    }
+
+    /* =========================form====================== */
+    /* =========================footer====================== */
+    .ft-wrapper {
+        display: flex;
+        flex-direction: column;
+        padding-left: 15px;
+    }
+    .footer-nav {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+    }
+    .ft-text-bottom {
+        padding: 0px 0px 20px 15px;
+    }
+    /* =========================footer====================== */
+}
+
+@media (max-width:450px) {
+
+    /* =========================header====================== */
+    .header-burger-btn {
+        display: block;
+        z-index: 2;
+    }
+
+    .header-wrapper {
+        gap: 0;
+    }
+
+    .header-nav nav {
+        position: absolute;
+        right: -400px;
+        top: 0;
+        width: 400px;
+        display: block;
+        background: #000;
+        padding: 15px 20px;
+        visibility: hidden;
+        transition: transform .5s, visibility .5s;
+        text-align: center;
+
+
+    }
+
+    .menu-item a {
+        padding: 5px;
+    }
+
+    .menu li {
+        padding-top: 5px;
+
+    }
+
+    .header.open .menu {
+        transform: translateX(-100%);
+        visibility: visible;
+    }
+
+    .header-title {
+        font-size: 32px;
+        padding-bottom: 16px;
+        min-width: 320px;
+        padding-left: 15px;
+    }
+
+    .header-description {
+        font-size: 18px;
+        padding-left: 15px;
+
+    }
+
+    .header-mobile-photo {
+        display: none;
+    }
+
+    .header-mobile-photo-360 {
+        display: block;
+    }
+
+    .header-text {
+        z-index: 0;
+        margin-top: 190px;
+        padding-bottom: 96px;
+    }
+
+    .main {
+        padding-top: 200px;
+    }
+
+    .header-mobile-photo-360 {
+        width: 390px;
+        height: 288px;
+    }
+
+    /* =========================header====================== */
+    /* =========================experince====================== */
+    .experince-title {
+        font-size: 32px;
+    }
+
+    .experince-facts {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .experince-facts-item, .experince-number-text, .experince-number-decript {
+        max-width: 320px;
+
+    }
+
+    .experince-facts-item {
+        padding-left: 15px;
+    }
+
+
+    /* =========================experince====================== */
+    /* =========================philosophy====================== */
+    .philosophy-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .philosophy-photo-mobile {
+        width: 440px;
+        height: 450px;
+    }
+
+    .philosophy-info {
+        padding-top: 48px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .philosophy-title {
+        font-size: 32px;
+    }
+
+    .philosophy-descript {
+        font-size: 18px;
+        max-width: 320px;
+        padding-bottom: 90px;
+    }
+
+    .philosophy-link {
+        padding-bottom: 55px;
+    }
+
+    /* =========================philosophy====================== */
+    /* =========================skillset====================== */
+    .skillset-title {
+        font-size: 32px;
+        padding-bottom: 16px;
+        max-width: 320px;
+    }
+
+    .skillset-columns {
+        display: grid;
+        grid-template-columns: repeat(1, 320px);
+    }
+
+    .skillset-item {
+        padding-bottom: 40px;
+    }
+
+    /* =========================skillset====================== */
+    /* =========================sponsors====================== */
+    .sponsors-wrapper {
+        display: grid;
+        grid-template-columns: repeat(2, 180px);
+        gap: 0;
+        padding-left: 0;
+    }
+
+    .sponsors-item {
+        max-width: 180px;
+    }
+
+    .sponsors-item img {
+        padding: 59px 45px;
+    }
+
+    /* =========================sponsors====================== */
+    /* =========================projects====================== */
+    .project-text {
+        padding-left: 15px;
+        max-width: 320px;
+    }
+
+    .project-title {
+        font-size: 32px;
+        max-width: 500px;
+        padding-left: 15px;
+    }
+
+    .project-item-img img {
+        max-width: 380px;
+        max-height: 400px;
+    }
+
+    .project-item-info, .projects-wrapper {
+        max-width: 380px;
+
+    }
+    .projects-wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-left: 10px;
+    }
+
+    .project-item {
+        max-width: 320px;
+        padding-left: 15px;
+
+    }
+
+    /* =========================projects====================== */
+
+
+
+    /* =========================follow====================== */
+    .follow-info {
+        max-width: 320px;
+    }
+
+    .follow-photo img {
+        max-width: 320px;
+    }
+
+    /* =========================follow====================== */
+    /* =========================why====================== */
+    .why-wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .why-title {
+        font-size: 32px;
+    }
+
+    .why-item-photo img {
+        min-width: 335px;
+
+    }
+
+    .why-item-info {
+        min-width: 320px;
+    }
+
+    .why-item {
+        padding-left: 15px;
+    }
+
+    /* =========================why====================== */
+    /* =========================photos====================== */
+
+    .photos-info {
+        max-width: 320px;
+    }
+
+    .photos-title {
+        font-size: 32px;
+    }
+
+    .photos-btns {
+        display: grid;
+        grid-template-columns: repeat(2, 148px);
+    }
+
+    .photos-wrapper {
+        max-width: 320px;
+        display: grid;
+        grid-template-columns: repeat(1, 320px);
+    }
+
+    /* =========================photos====================== */
+    /* =========================form====================== */
+    .form-wrapper {
+        display: flex;
+        flex-direction: column;
+        padding: 80px 15px;
+    }
+
+    .follow-info-title {
+        font-size: 32px;
+    }
+
+    .form-inputs {
+        max-width: 360px;
+    }
+
+    /* =========================form====================== */
+    /* =========================footer====================== */
+    .ft-wrapper {
+        display: flex;
+        flex-direction: column;
+        padding-left: 15px;
+    }
+    .footer-nav {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+    }
+    .ft-text-bottom {
+        padding: 0px 0px 20px 15px;
+    }
+    /* =========================footer====================== */
+}
+@media (max-width:320px) {
+    /* =========================header====================== */
+    .header-title, .header-description {
+        padding-left: 35px;
+    }
+     /* =========================header====================== */
+}

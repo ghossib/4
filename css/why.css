@@ -1,0 +1,54 @@
+.why {
+    margin-bottom: 240px;
+}
+
+.why-wrapper {
+    display: flex;
+    gap: 72px;
+}
+
+
+.why-column {
+    margin-top: -110px;
+}
+
+
+.why-title {
+    max-width: 588px;
+}
+
+.why-item {
+    display: flex;
+    flex-direction: column;
+    display: block;
+    margin-top: 120px;
+}
+
+.why-item-photo {
+    display: block;
+    
+}
+
+.why-item-info {
+    padding: 63px;
+    border: 1px solid #5B6876;
+    display: inline-block;
+    margin-top: -5px;
+}
+
+.why-item-text {
+    max-width: 508px;
+    padding-bottom: 64px;
+}
+
+.author {
+    font-size: 18px;
+    color: #5B6876;
+    padding-bottom: 5px;
+}
+
+.job-title {
+    font-family: senR;
+    font-size: 18px;
+    color: #5B6876;
+}

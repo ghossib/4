@@ -1,0 +1,47 @@
+.form-wrapper {
+    padding: 120px 182px;
+    display: flex;
+    gap: 25px;
+}
+
+.form-inputs {
+    display: flex;
+    flex-direction: column;
+    width: 526px;
+    gap: 10px;
+    
+    
+}
+.form-inputs input {
+    outline: none;
+    background-color: #181823;
+    border: 0;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+.form-inputs button {
+    background-color: #5221E6;
+    color: white;
+    outline: none;
+    border: 0;
+    padding: 24px 32px;
+    font-size: 18px;
+    font-family: senR;
+    cursor: pointer;
+}
+
+.name {
+    height: 50px;
+    
+}
+
+.email {
+    height: 50px;
+}
+
+.message {
+    height: 100px;
+    margin-bottom: 30px;
+    
+}

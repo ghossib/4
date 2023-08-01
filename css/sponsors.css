@@ -1,0 +1,14 @@
+.sponsors {
+    margin-bottom: 120px;
+}
+
+.sponsors-wrapper {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(4, 340px);
+}
+.sponsors-item img {
+padding: 55px 128px;
+border: 1px solid #8491A0;
+}

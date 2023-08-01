@@ -1,0 +1,36 @@
+.skillset {
+    margin-bottom: 120px;
+}
+
+.skillset-wrapper {
+    display: flex;
+    gap: 72px;
+}
+
+.skillset-title {
+    font-size: 55px;
+    padding-bottom: 24px;
+}
+.skillset-descript {
+    font-size: 18px;
+    color: #8491A0;
+    max-width: 368px;
+    line-height: 150%; /* 24px */
+}
+.skillset-columns {
+display: grid;
+grid-template-columns: repeat(2, 416px);
+gap: 72px;
+}
+
+.skillset-item-img {
+padding-bottom: 24px;
+}
+.skillset-title-item {
+font-size: 24px;
+padding-bottom: 12px;
+}
+.skillset-decript-item {
+color: #8491A0;
+max-width: 368px;
+}
